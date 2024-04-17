@@ -1,0 +1,14 @@
+.trave_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.trave_mainDiv img
+{
+    width: 100%;
+}
+
+.trave_mainDiv h5 , .trave_mainDiv p
+{
+    margin: 20px;
+}
